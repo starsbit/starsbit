@@ -1,6 +1,7 @@
 ### About me
 - 🎓 Studying computer science at University Kassel
 - 🤍 Loves programming in object oriented programming languages
+- ☁️ Currently learning more about Docker, Kubernetes and Azure
 - ✉️ For any questions contact me [here](https://github.com/nico-mu/nico-mu/issues)
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nico-mu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nico-mu's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-mu&layout=compact&theme=buefy&hide_border=true"/></a> |
