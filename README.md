@@ -13,10 +13,10 @@
     <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
     <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/></a>
     <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label="/></a>
     <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="/></a>
 </p>
-
 
 <h2 align="center">My Stats 📊</h2>
 <p align="center">
