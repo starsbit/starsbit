@@ -8,7 +8,7 @@
   <a href="[https://www.python.org/](https://go.dev/)" target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
-<h3 align="center">My Frameworks and Liberaries 🌪️</h3>
+<h3 align="center">My Frameworks, Liberaries and Utilities 🌪️</h3>
 <p align="center">
     <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
     <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
