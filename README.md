@@ -21,5 +21,5 @@
 <h2 align="center">My Stats 📊</h2>
 <p align="center">
   <!-- <a href="https://github.com/nico-mu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nico-mu&show_icons=true&count_private=true&theme=dracula" width="350"></a> !-->
-  <a href="https://github.com/nico-mu"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-mu&layout=compact&theme=dracula" width="350"></a>
+  <a href="https://github.com/nico-mu"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-mu&layout=compact&theme=transparent" width="350"></a>
 </p>
