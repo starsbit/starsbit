@@ -1,4 +1,4 @@
-<h1 align="center">Hey! My name is Nico 👋</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <h2 align="center">My Tools 🔧</h2>
 <h3 align="center">My Languages ⚡</h3>
 <p align="center">
