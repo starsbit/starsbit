@@ -1,3 +1,4 @@
+<img src="starsbit_logo_pale_green.png"/>
 <h1 align="center">Welcome to my profile!</h1>
 <h2 align="center">My Tools 🔧</h2>
 <h3 align="center">My Languages ⚡</h3>
