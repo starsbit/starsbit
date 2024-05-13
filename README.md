@@ -1,4 +1,6 @@
-<img src="starsbit_logo_transparent_blue.png"/>
+<a href="https://starsbit.space/" target="_blank">
+    <img src="starsbit_logo_transparent_blue.png"/>
+</a>
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">My Languages</h3>
 <p align="center">
