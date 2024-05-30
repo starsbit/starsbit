@@ -19,9 +19,3 @@
     <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="/></a>
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" src="https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label="/></a>
 </p>
-
-<h2 align="center">Stats</h2>
-<p align="center">
-  <!-- <a href="https://github.com/starsbit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=starsbit&show_icons=true&count_private=true&theme=dracula" width="350"></a> !-->
-  <a href="https://github.com/starsbit"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=starsbit&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true" width="350"></a>
-</p>
