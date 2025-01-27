@@ -27,5 +27,7 @@
 <h1></h1>
 
 <section>
-<img src="bernkastel_and_lambdadelta.jpg"/>
+<a href="https://danbooru.donmai.us/posts/4428919" target="_blank">
+    <img src="bernkastel_and_lambdadelta.jpg"/>
+</a>
 </section>
