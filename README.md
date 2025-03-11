@@ -16,9 +16,9 @@
 </p>
 <h3 align="center">Favorite Frameworks, Liberaries and Utilities</h3>
 <p align="center">
-    <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
     <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
-    <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+    <a href="https://github.com/fastapi/fastapi" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/></a>
+    <a href="https://spring.io/" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
     <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="/></a>
 </p>
 
