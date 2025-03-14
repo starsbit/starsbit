@@ -1,5 +1,5 @@
 <section>
-<a href="https://starsbit.space/" target="_blank">
+<a target="_blank">
     <img src="starsbit_silver.png"/>
 </a>
 </section>
